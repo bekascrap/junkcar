@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Vehicles for Sale | Sunnyvale Auto Salvage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Available Vehicles</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="vehicles.html">Vehicles</a>
+  </nav>
+</header>
+
+<div class="container">
+  <div class="vehicle-grid">
+
+    <div class="vehicle-card">
+      <h3>2012 Honda Civic</h3>
+      <p><strong>Status:</strong> Parts Only</p>
+      <p><strong>Condition:</strong> Engine damaged</p>
+      <p><strong>Price:</strong> Parts priced individually</p>
+    </div>
+
+    <div class="vehicle-card">
+      <h3>2008 Ford F-150</h3>
+      <p><strong>Status:</strong> Whole Vehicle</p>
+      <p><strong>Condition:</strong> Runs, body wear</p>
+      <p><strong>Price:</strong> $2,800</p>
+    </div>
+
+    <div class="vehicle-card">
+      <h3>2015 Toyota Corolla</h3>
+      <p><strong>Status:</strong> Parts Only</p>
+      <p><strong>Condition:</strong> Rear damage</p>
+      <p><strong>Price:</strong> Parts priced individually</p>
+    </div>
+
+  </div>
+</div>
+
+<footer>
+  Call or visit us for part availability
+</footer>
+
+</body>
+</html>
