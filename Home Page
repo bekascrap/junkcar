@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Sunnyvale Auto Salvage</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+  <h1>Sunnyvale Auto Salvage</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="vehicles.html">Vehicles</a>
+  </nav>
+</header>
+
+<div class="container">
+  <h2>Your Local Junkyard & Auto Parts Source</h2>
+  <p>
+    We sell complete vehicles and individual parts at affordable prices.
+    Browse our current inventory and contact us for availability.
+  </p>
+
+  <a class="button" href="vehicles.html">View Vehicles</a>
+</div>
+
+<footer>
+  © 2025 Sunnyvale Auto Salvage
+</footer>
+
+</body>
+</html>
